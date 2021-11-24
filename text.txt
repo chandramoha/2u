@@ -1,1 +1,12 @@
 hi hello world
+
+
+how to create git reposity
+---------------------------
+
+> git init 
+> git remote add origin past-URL 
+> git add -A (add all files)
+> git status
+> git commit -m "write meaningfull words"
+> git branch -M main
